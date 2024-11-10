@@ -1,3 +1,9 @@
+Next.js    --version 14.2.10
+Prisma     --version 5.19.1
+Typescript --version 5
+
+Qualquer outra dúvida sobre a versões das tecnologias utilizadas verificar o arquivo package.json.
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
