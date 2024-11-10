@@ -1,6 +1,6 @@
-Next.js    --version 14.2.10
-Prisma     --version 5.19.1
-Typescript --version 5
+Next.js    --version 14.2.10.
+Prisma     --version 5.19.1.
+Typescript --version 5.
 
 Qualquer outra dúvida sobre a versões das tecnologias utilizadas verificar o arquivo package.json.
 
