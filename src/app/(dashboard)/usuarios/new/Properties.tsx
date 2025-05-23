@@ -25,8 +25,10 @@ export type PropertiesProps = {};
 const schema = z.object({
   name: z.string(),
   email: z.string(),
-  status: z.boolean(),
   password: z.string(),
+  status: z
+    .enum(["true", "false"])
+    .transform((value) => value === "true"),
 });
 
 type FormValues = z.infer<typeof schema>;

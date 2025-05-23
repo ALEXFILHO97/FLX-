@@ -102,5 +102,4 @@ const waybillRouter = trpc.router({
       return res;
     }),
 });
-
 export default waybillRouter;
